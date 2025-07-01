@@ -76,7 +76,7 @@ Throughout the engagement, we validated our recommendations through:
 
 - 📊 [Final Consulting Report (PDF)](https://github.com/bhatia-pooja/campus-catering-digital-transformation/blob/dcb64cd61084567397c353237084ecf4baa5b5db/Citrus%20Grove%20recommendations%20report.pdf))
 - 📽 [Final Client Presentation Deck (PDF)](https://github.com/bhatia-pooja/campus-catering-digital-transformation/blob/64c86b6109fc2a0e0d321dcd1a6be2886ceab1ed/Client%20Presentation%20CGC.pdf)
-- 🌐 [Website Wireframe & Design Recommendation (PDF)]((https://github.com/bhatia-pooja/campus-catering-digital-transformation/blob/64c86b6109fc2a0e0d321dcd1a6be2886ceab1ed/Website%20Proposed%20Layout%20.pdf))
+- 🌐 [Website Wireframe & Design Recommendation (PDF)]((https://github.com/bhatia-pooja/campus-catering-digital-transformation/blob/64c86b6109fc2a0e0d321dcd1a6be2886ceab1ed/Website%20Proposed%20Layout%20.pdf)
   
 ---
 
