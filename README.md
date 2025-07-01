@@ -74,7 +74,7 @@ Throughout the engagement, we validated our recommendations through:
 
 ## 📂 Key Deliverables
 
-- 📊 [Final Consulting Report (PDF)](link-here)
+- 📊 [Final Consulting Report (PDF)](Citrus Grove recommendations report.pdf)
 - 📽 [Final Client Presentation Deck (PDF)](link-here)
 - 🌐 [Website Wireframe & Design Recommendation (PDF)](link-here)
   
