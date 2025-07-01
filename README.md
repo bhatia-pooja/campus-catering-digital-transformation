@@ -91,5 +91,5 @@ Throughout the engagement, we validated our recommendations through:
 
 ## 👥 Team Acknowledgment
 
-This project was a collaboration between a team of MBA students from UC Riverside’s AGSM. I’m proud to have worked alongside [Team Members' Names, optional] in delivering a meaningful impact for a real client.
+This project was a collaboration between a team of MBA students from UC Riverside’s AGSM. I’m proud to have worked alongside Ishita, Connor, Hau & Melanie in delivering a meaningful impact for a real client.
 ---
