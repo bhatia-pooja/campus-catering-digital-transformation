@@ -74,7 +74,7 @@ Throughout the engagement, we validated our recommendations through:
 
 ## 📂 Key Deliverables
 
-- 📊 [Final Consulting Report (PDF)](Citrus Grove recommendations report.pdf)
+- 📊 [Final Consulting Report (PDF)]([Citrus Grove recommendations report.pdf](https://github.com/bhatia-pooja/campus-catering-digital-transformation/blob/dcb64cd61084567397c353237084ecf4baa5b5db/Citrus%20Grove%20recommendations%20report.pdf))
 - 📽 [Final Client Presentation Deck (PDF)](link-here)
 - 🌐 [Website Wireframe & Design Recommendation (PDF)](link-here)
   
